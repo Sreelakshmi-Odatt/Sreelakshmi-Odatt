@@ -5,7 +5,7 @@
 ## Skills
 
 - **Programming Languages and Software Development:** Java, Cobol, C++ , Python , PHP
-- **Web Development:** HTML, CSS, JavaScript.+  
+- **Web Development:** HTML, CSS, JavaScript  
 - **Operating Systems:** Windows, Linux 
 - **Software Development Methodologies and Tools:** Eclipse IDE, VMWare Workstation, MySQL Workbench, SQL Server Management Studio, Oracle, Object-Oriented Programming, DBMS, UML, Github
 - **Version Control System:** Git
