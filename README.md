@@ -19,4 +19,4 @@
 - **LinkedIn:** [Sreelakshmi Odatt](https://www.linkedin.com/in/sreelakshmi-o-v/)
 - **Email:** sreelakshmiodatt@gmail.com
 
-Feel free to connect and collaborate on exciting projects! 🚀
+Feel free to connect and collaborate on exciting projects! 
