@@ -8,7 +8,6 @@
 - **Web Development:** HTML, CSS, JavaScript  
 - **Operating Systems:** Windows, Linux 
 - **Software Development and Tools:** Eclipse IDE, VMWare Workstation, MySQL Workbench, SQL Server Management Studio, Oracle, Object-Oriented Programming, DBMS, UML, Github, RESTFul API , Swagger.
-- 
 - **Version Control System:** Git
 - **Microsoft Office:** Access, Excel, PowerPoint, Word, Teams
 - **Software Development Methodologies:** Agile, Scrum
